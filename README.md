@@ -9,3 +9,5 @@ Our primary goal is to create a web mapping with a listing of all of the people 
 Data mapping is the process of mapping data fields from a source file to their related target fields.
 ### What is Covid-19?
 COVID-19, short for "coronavirus disease 2019," is the official name given by the World Health Organization to the disease caused by this newly identified coronavirus.
+
+
