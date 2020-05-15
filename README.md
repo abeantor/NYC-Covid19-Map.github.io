@@ -1,6 +1,6 @@
 # Interactive Map Analysis of the Coronavirus Cases in NYC
 
-https://abeantor.github.io/NYC-Covid19-Map.github.io/#11/40.6718/-73.9686
+https://abeantor.github.io/NYC-Covid19-Map.github.io
 
 # Description: 
 One of the advantages we have today in the fight against coronavirus that big data and the high level of technology available. China tapped into big data, machine learning, and other digital tools as the virus spread through the nation in order to track and contain the outbreak. As the virus continues to spread across the world as other countries fight; we can use digital technology to develop real-time forecasts and arm healthcare professionals to predict the impact of the coronavirus.
